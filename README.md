@@ -19,7 +19,3 @@ The objective of this project is to develop a sentiment analysis model using nat
 
 4. **Model Evaluation**:
    - Evaluate the model's performance on a test dataset to measure accuracy.
-
-## Results and Analysis
-
-- Aim for a test accuracy of at least 65% with the Mult
